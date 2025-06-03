@@ -1,9 +1,9 @@
 {
-    "name": "Malvin Session Generator",
+    "name": "GoJo-md Session Generator",
     "description": "Web Session Generator",
-    "logo": "https://i.imgur.com/teQzVR1.jpeg",
-    "repository": "https://github.com/XdKing2/malvin-pair",
-    "keywords": ["MalvinTech","XdKing2"],
+    "logo": "https://files.catbox.moe/ais6k3.png",
+    "repository": "https://github.com/Azahacko/GoJo-pair.git",
+    "keywords": ["GoJo-md","dark-dev"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
